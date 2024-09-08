@@ -22,6 +22,12 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligen
 
 [Curso Python para Ciencia de Datos](./capacitaciones/python_para_ciencia_datos.pdf)
 
+[Curso Linux](./capacitaciones/diploma-linux-old.pdf)
+
+[Curso Terminal y Linea de Comandos](./capacitacionesdiploma-terminal-2019.pdf)
+
+[Curso Python para Machine Learning](./capacitaciones/machine_learning.pdf)
+
 
 ## Proyectos Destacados
 

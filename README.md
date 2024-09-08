@@ -15,9 +15,13 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligen
 ## Puedes ver aqui otras capacitaciones
 
 [Curso Excel Financiero para análisis de Datos](./capacitaciones/diploma-excel-financiero.pdf)
+
 [Curso Negocios para Ciencia de Datos](./capacitaciones/negocios_data_science.pdf)
+
 [Curso Power BI](./capacitaciones/power_BI.pdf)
+
 [Curso Python para Ciencia de Datos](./capacitaciones/python_para_ciencia_datos.pdf)
+
 
 
 

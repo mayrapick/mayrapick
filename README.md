@@ -23,21 +23,20 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligen
 [Curso Python para Ciencia de Datos](./capacitaciones/python_para_ciencia_datos.pdf)
 
 
-
-
 ## Proyectos Destacados
 
-### [Nombre del Proyecto]
-[Descripción breve del proyecto, por ejemplo, "Una aplicación web para gestionar tareas con una interfaz intuitiva y una API RESTful."]
+### [Procesamiento de imagenes/DOcker]
+[Esta aplicación procesa un lote de imagenes, y se ejecuta a traves de un contenedor en Bash]
 
-- **Tecnologías:** [menciona las tecnologías usadas, por ejemplo, "React, Node.js, MongoDB"]
-- **Repositorio:** [Enlace al repositorio del proyecto](enlace)
+- **Tecnologías:** Bash/Linux
+- **Repositorio:** [procesamiento_imagenes_ Docker]([https://github.com/mayrapick/procesamiento_imagenes_docker.git])
 
-### [Otro Proyecto]
-[Descripción breve del proyecto]
+### [Proyecto Previaje 
+Analisis de datasets de ediciones de años anteriores del programa nacional de Previaje.
 
-- **Tecnologías:** [Tecnologías usadas]
-- **Repositorio:** [Enlace al repositorio del proyecto](enlace)
+- **Tecnologías:** Python
+- **Repositorio:** [proyecto previaje]([https://github.com/mayrapick/proyecto_previaje.git])
+
 
 ## ¿Cómo Contactarme?
 

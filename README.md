@@ -2,7 +2,7 @@
 
 # ¡Hola, soy [Mayrapick]!
 
-Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligencia Artificial, con experiencia en Análisis de datos. Me apasiona las nuevas tecnologias y siempre estoy buscando aprender y mejorar.
+Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligencia Artificial (UNR), con experiencia en Análisis de datos. Me apasiona las nuevas tecnologias y siempre estoy buscando aprender y mejorar.
 
 ## Sobre Mí
  Tengo un fuerte interés en la inteligencia artificial y el análisis de datos. Mi objetivo es seguir desarrollando habilidades profesionales en materia de Ciencia de Datos.
@@ -11,6 +11,15 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligen
 
 - **Lenguajes de Programación:**  Python
 - **Tecnologías y Herramientas:** SQL, SSISS, Linux, Bash, Power BI
+
+## Puedes ver aqui otras capacitaciones
+
+[Curso Excel Financiero para análisis de Datos](./capacitaciones/diploma-excel-financiero.pdf)
+[Curso Negocios para Ciencia de Datos](./capacitaciones/negocios_data_science.pdf)
+[Curso Power BI](./capacitaciones/power_BI.pdf)
+[Curso Python para Ciencia de Datos](./capacitaciones/python_para_ciencia_datos.pdf)
+
+
 
 ## Proyectos Destacados
 

@@ -43,8 +43,8 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligen
 
 Si tenes alguna pregunta o simplemente quieres conectar, aquí están mis datos de contacto:
 
-- **Correo Electrónico:** [mail: ](mayrapiccirilli@gmail.com)
-- **LinkedIn:** [Mayra Piccirilli](www.linkedin.com/in/mayrapiccirilli)
+- **Correo Electrónico:** mail: mayrapiccirilli@gmail.com
+- **LinkedIn:** Mayra Piccirilli www.linkedin.com/in/mayrapiccirilli
 
 ---
 

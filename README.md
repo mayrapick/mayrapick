@@ -1,6 +1,6 @@
 ## Hola a todos!
 
-# ¡Hola, soy Mayrapick!
+# ¡Hola, soy Mayrapick! 
 
 Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligencia Artificial (UNR), con experiencia en Análisis de datos. Me apasiona las nuevas tecnologias y siempre estoy buscando aprender y mejorar.
 
@@ -12,7 +12,7 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligen
 - **Lenguajes de Programación:**  Python
 - **Tecnologías y Herramientas:** SQL, SSISS, Linux, Bash, Power BI
 
-## Puedes ver aqui otras capacitaciones
+## Otras capacitaciones
 
 [Curso Excel Financiero para análisis de Datos](./capacitaciones/diploma-excel-financiero.pdf)
 

@@ -1,5 +1,3 @@
-## Hola a todos!
-
 # ¡Hola, soy Mayrapick! 
 
 Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligencia Artificial (UNR), con experiencia en Análisis de datos. Me apasiona las nuevas tecnologias y siempre estoy buscando aprender y mejorar.

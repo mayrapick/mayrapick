@@ -1,6 +1,6 @@
 ## Hola a todos!
 
-# ¡Hola, soy [Mayrapick]!
+# ¡Hola, soy Mayrapick!
 
 Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligencia Artificial (UNR), con experiencia en Análisis de datos. Me apasiona las nuevas tecnologias y siempre estoy buscando aprender y mejorar.
 
@@ -25,17 +25,17 @@ Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligen
 
 ## Proyectos Destacados
 
-### [Procesamiento de imagenes/DOcker]
+### Procesamiento de imagenes/Docker
 [Esta aplicación procesa un lote de imagenes, y se ejecuta a traves de un contenedor en Bash]
 
 - **Tecnologías:** Bash/Linux
-- **Repositorio:** [procesamiento_imagenes_ Docker]([https://github.com/mayrapick/procesamiento_imagenes_docker.git])
+- **Repositorio:** procesamiento_imagenes_ Docker: https://github.com/mayrapick/procesamiento_imagenes_docker.git
 
-### [Proyecto Previaje 
+### Proyecto Previaje 
 Analisis de datasets de ediciones de años anteriores del programa nacional de Previaje.
 
 - **Tecnologías:** Python
-- **Repositorio:** [proyecto previaje]([https://github.com/mayrapick/proyecto_previaje.git])
+- **Repositorio:** proyecto previaje: https://github.com/mayrapick/proyecto_previaje.git
 
 
 ## ¿Cómo Contactarme?

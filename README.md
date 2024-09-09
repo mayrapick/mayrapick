@@ -46,7 +46,7 @@ Analisis de datasets de ediciones de años anteriores del programa nacional de P
 
 Si tenes alguna pregunta o simplemente quieres conectar, aquí están mis datos de contacto:
 
-- **Correo Electrónico:** mail: mayrapiccirilli@gmail.com
+- **Correo Electrónico:**mayrapiccirilli@gmail.com
 - **LinkedIn:** Mayra Piccirilli www.linkedin.com/in/mayrapiccirilli
 
 ---

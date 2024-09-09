@@ -1,6 +1,6 @@
 # ¡Hola, soy Mayrapick! 
 
-Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecinicatura en Inteligencia Artificial (UNR), con experiencia en Análisis de datos. Me apasiona las nuevas tecnologias y siempre estoy buscando aprender y mejorar.
+Bienvenido a mi perfil de GitHub. Soy estudiante de la Tecnicatura en Inteligencia Artificial (UNR), con experiencia en Análisis de datos. Me apasiona las nuevas tecnologias y siempre estoy buscando aprender y mejorar.
 
 ## Sobre Mí
  Tengo un fuerte interés en la inteligencia artificial y el análisis de datos. Mi objetivo es seguir desarrollando habilidades profesionales en materia de Ciencia de Datos.
